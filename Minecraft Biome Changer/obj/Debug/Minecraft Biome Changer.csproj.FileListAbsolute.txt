@@ -1,0 +1,11 @@
+C:\Users\Shade\source\repos\Minecraft Biome Changer\Minecraft Biome Changer\bin\Debug\Minecraft Biome Changer.exe.config
+C:\Users\Shade\source\repos\Minecraft Biome Changer\Minecraft Biome Changer\bin\Debug\Minecraft Biome Changer.exe
+C:\Users\Shade\source\repos\Minecraft Biome Changer\Minecraft Biome Changer\bin\Debug\Minecraft Biome Changer.pdb
+C:\Users\Shade\source\repos\Minecraft Biome Changer\Minecraft Biome Changer\obj\Debug\Minecraft Biome Changer.csprojResolveAssemblyReference.cache
+C:\Users\Shade\source\repos\Minecraft Biome Changer\Minecraft Biome Changer\obj\Debug\Minecraft_Biome_Changer.MainForm.resources
+C:\Users\Shade\source\repos\Minecraft Biome Changer\Minecraft Biome Changer\obj\Debug\Minecraft_Biome_Changer.Properties.Resources.resources
+C:\Users\Shade\source\repos\Minecraft Biome Changer\Minecraft Biome Changer\obj\Debug\Minecraft Biome Changer.csproj.GenerateResource.Cache
+C:\Users\Shade\source\repos\Minecraft Biome Changer\Minecraft Biome Changer\obj\Debug\Minecraft Biome Changer.csproj.CoreCompileInputs.cache
+C:\Users\Shade\source\repos\Minecraft Biome Changer\Minecraft Biome Changer\obj\Debug\Minecraft Biome Changer.exe
+C:\Users\Shade\source\repos\Minecraft Biome Changer\Minecraft Biome Changer\obj\Debug\Minecraft Biome Changer.pdb
+C:\Users\Shade\source\repos\Minecraft Biome Changer\Minecraft Biome Changer\obj\Debug\Minecraft_Biome_Changer.SubChunks_Form.resources
